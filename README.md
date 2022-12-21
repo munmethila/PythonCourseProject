@@ -1,1 +1,1 @@
-# PythonCourseProject - Univerity Project
+# PythonCourseProject - University Project
